@@ -1,5 +1,5 @@
 div.contact{
-	margin-left:-30px;
+	margin-left:130px;
 	width: 38%
 }
 div.all{
@@ -7,4 +7,7 @@ div.all{
 }
 h1{
 	color: rgb(60,150,225);
+}
+button{
+	margin-left: 100px
 }
