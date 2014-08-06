@@ -1,10 +1,6 @@
-li{
-	display: inline;
-}
 div{
 	text-align: center;
 	margin:auto;
-	margin-top: 30px;
 
 }
 
@@ -12,10 +8,19 @@ button a{
 	color:white;
 }
 
-.navbar{
-	text-align: left;
-	background-color: #ccccff;
+.row{
+	text-align: center;
+	background-color: #e5e5ff;
 	margin-bottom: 120px;
+}
+.row .btn{
+	margin-top: 150px;
+}
+.logo
+{
+	margin: 0;
+	padding: 0;
+	margin-right: 35%;
 }
 ul{
 	margin: 0;
