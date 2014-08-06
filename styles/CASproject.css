@@ -1,0 +1,23 @@
+li{
+	display: inline;
+}
+div{
+	text-align: center;
+	margin:auto;
+	margin-top: 30px;
+
+}
+
+button a{
+	color:white;
+}
+
+.navbar{
+	text-align: left;
+	background-color: #ccccff;
+	margin-bottom: 120px;
+}
+ul{
+	margin: 0;
+	padding:0;
+}
