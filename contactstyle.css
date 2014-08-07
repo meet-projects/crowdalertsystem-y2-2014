@@ -8,6 +8,6 @@ div.all{
 h1{
 	color: rgb(60,150,225);
 }
-button{
-	margin-left: 100px
+.width80{
+	width: 60%;
 }
