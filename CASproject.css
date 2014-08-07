@@ -1,10 +1,28 @@
-li{
-	display: inline;
-}
 div{
 	text-align: center;
 	margin:auto;
-	margin-top: 100px;
 
 }
 
+button a{
+	color:white;
+}
+
+.row{
+	text-align: center;
+	background-color: #e5e5ff;
+	margin-bottom: 120px;
+}
+.row .btn{
+	margin-top: 150px;
+}
+.logo
+{
+	margin: 0;
+	padding: 0;
+	margin-right: 35%;
+}
+ul{
+	margin: 0;
+	padding:0;
+}
