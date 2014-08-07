@@ -3,18 +3,67 @@ h1{
 }
 div{
 	background-color:#99CCFF;
-	width:80%;
 
 }
+#bodystyle{
+	background-color: white;
+}
+
 .par{
 	font-size: 23px;
 }
 #need{
 	color:white;
 }
-#give{
-	color:white;
-}
+
 .btn{
 	font-size: 19px;
+}
+#giv{
+	color :white;
+}
+ul li{
+	font-size:19px;
+}
+#contact{
+	color:white;
+}
+body, #everything {
+    background-color: white
+;
+}
+
+.team-member{
+	width:150px; !important
+	height: 150px; !important
+}
+
+
+.img1{
+	margin-left: 10px;
+	float:left;
+}
+h4{
+	text-align:center;
+}
+.point{
+	width: 80%;
+	padding: 10px;
+	display: inline-block;
+
+}
+.bg{
+	background-color: white;
+}
+
+.col-xs-6 a{
+	text-align: center;
+}
+
+.col-xs-6 img {
+	width:100%;
+}
+
+.col-xs-6{
+	width:200px;
 }
